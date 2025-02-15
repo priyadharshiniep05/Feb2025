@@ -1,0 +1,242 @@
+    1  git --version
+    2  touch index.html
+    3  touch app.js
+    4  git config --global user.name 'Mareeswari'
+    5  git config --global user.email 'acs@acs.com'
+    6  git add intex.html
+    7  git init
+    8  git config --global user.name 'Mareeswari'
+    9  git config --global user.email 'acs@acs.com'
+   10  git add intex.html
+   11  git add index.html
+   12  git status
+   13  git rm --cached index.html
+   14  git status
+   15  git add *.html
+   16  git status
+   17  git rm --cached index.html
+   18  git add .
+   19  git status
+   20  git add .
+   21  git status
+   22  get commit
+   23  get commit
+   24  git status
+   25  git add .
+   26  get commit -m 'changed app.js
+   27  get commit -m 'changed app.js'
+   28  get commit -m 'changed app.js
+   29  get commit -m 'changed app.js'
+   30  touch .gitignore
+   31  touch log.txt
+   32  git add.
+   33  git add .
+   34  git status
+   35  git add .
+   36  git status
+   37   git branch login
+   38   git branch login
+   39  touch login.html
+   40   git branch login
+   41  git init
+   42  git branch
+   43  git branch login
+   44  git branch master
+   45  git branch 
+   46  git branch *master
+   47  git branch 
+   48  * master
+   49  git branch feature
+   50  git branch -a
+   51  git status
+   52  git branch 
+   53  git branch 
+   54  git init
+   55  git branch 
+   56  git add index.html
+   57  git commit -m "First commit"
+   58  git branch 
+   59  git branch feature
+   60  git status
+   61  git add .
+   62  git status
+   63  git branch 
+   64  git branch login
+   65  git branch 
+   66  git commit -m "another changed"
+   67  git checkout login
+   68  toch login1.html
+   69  touch login1.html
+   70  git add .
+   71  git add .
+   72  git commit
+   73  git commit -m 'login form'
+   74  clear
+   75  git checkout master
+   76  git merge login
+   77  git clone https://github.com/Mareesh1982/myappsample.git
+   78  git pull
+   79  git pull
+   80  git init
+   81  git add .
+   82  git status
+   83  git commit
+   84  git add index.html
+   85  git comiit
+   86  git commit -m 'first commit'
+   87  clear
+   88  git config --global user.name 'Mareesh'
+   89  git config --global user.email 'Mareesh@mareesh.com'
+   90  git add index.html
+   91  git status
+   92  git add index.html
+   93  git status
+   94  git rm --cached index.html
+   95  git status
+   96  git add *.html
+   97  git status
+   98  git add .
+   99  git status
+  100  git add .
+  101  git status
+  102  git add *.html
+  103  git status
+  104  git add *.html
+  105  git commit
+  106  git add index.html
+  107  git commit
+  108  git status
+  109  git remote
+  110  git remote add origin https://github.com/Mareesh1982/myappsample.git
+  111  git remote
+  112  git push -u origin main
+  113  git push -u origin main
+  114  git push -u origin main
+  115  git push -u origin master
+  116  touch README.md
+  117  git add .
+  118  git commit
+  119  git checkout master
+  120  git branch
+  121  get add .
+  122  git add .
+  123  git commit -m 'add readme'
+  124  git push -u origin master
+  125  git add .
+  126  git commit -m 'added readme'
+  127  git push 
+  128  touch sample.md
+  129  git add sample.md
+  130  git commit -m 'added sample'
+  131  git push 
+  132  git pull
+  133  git clone https://github.com/Mareesh1982/myappExample.git
+  134  git remote
+  135  git remote add origin https://github.com/Mareesh1982/myappExample.git
+  136  git push -u origin master
+  137  git clone https://github.com/Mareesh1982/myappsample.git
+  138  git pull https://github.com/Mareesh1982/myappsample.git
+  139  git pull https://github.com/Mareesh1982/myappsample.git
+  140  git clone https://github.com/Mareesh1982/myappExample.git
+  141  git init
+  142  git add index.html
+  143  git init
+  144  ls
+  145  ls -la
+  146  touch priya.txt
+  147  vi priya.txt 
+  148  cat priya.txt 
+  149  cat priya.txt 
+  150  git status
+  151  git add .
+  152  git status
+  153  git commit -m "My First commit"
+  154  git status
+  155  git config --global --list
+  156  git config --global user.email "priyadharshiniep05@gmail.com"
+  157  git config --global user.name "Priyadharshini"
+  158  git config --global --list
+  159  git status
+  160  vi help.txt
+  161  cat help.txt 
+  162  git status
+  163  git add .
+  164  git status
+  165  git commit -m "I added help"
+  166  git status
+  167  ls
+  168  ls -la
+  169  vi test.txt
+  170  cat test.txt 
+  171  git add .
+  172  git status
+  173  git rm --cashed test.txt 
+  174  git status
+  175  git rm --cached test.txt 
+  176  git status
+  177  git add .
+  178  git commit -m "Test added"
+  179  git status
+  180  ls
+  181  git log
+  182  git log --oneline
+  183  history
+  184  history > history.txt
+  185  cat history.txt 
+  186  vi history.txt 
+  187  exit
+  188  git init
+  189  git add igit init
+  190  ls
+  191  ls -la
+  192  touch jst.txt
+  193  vi jst.txt 
+  194  ls
+  195  ls -la
+  196  vi abc.txt
+  197  cat abc.txt 
+  198  git status
+  199  git add
+  200  ls
+  201  vi abc.txt
+  202  cat abc.txt 
+  203  git status
+  204  git add 
+  205  git add .
+  206  git status
+  207  git commit -m "ABC"
+  208  git status
+  209  vi nam.txt
+  210  cat nam.txt 
+  211  git status
+  212  git add .
+  213  git status
+  214  git rm --cached nam.txt
+  215  git status
+  216  ls
+  217  ls -la
+  218  vi a.txt
+  219  cat a.txt
+  220  vi a.txt
+  221  cat a.txt
+  222  vi help.txt
+  223  cat help.txt 
+  224  git status
+  225  git add .
+  226  git status
+  227  git commit -m "My Files"
+  228  git status
+  229  vi xy.txt
+  230  git config --global --list
+  231  vi index.html
+  232  cat index.html 
+  233  git status
+  234  git add .
+  235  git status
+  236  git commit -m "Html"
+  237  git status
+  238  clear
+  239  git log
+  240  git log --oneline
+  241  history
+  242  history > history.txt
